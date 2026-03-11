@@ -1,0 +1,1 @@
+const APP_PASSWORD = "12345";
