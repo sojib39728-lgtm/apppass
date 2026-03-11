@@ -1,4 +1,4 @@
 var APP_CONFIG = {
-    password: "12345",
-    version: "1.0"
+    password: "32345",
+    version: "1.3"
 };
