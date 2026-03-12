@@ -1,1 +1,1 @@
-const APP_PASSWORD = "55555";
+const APP_PASSWORD = "666666";
